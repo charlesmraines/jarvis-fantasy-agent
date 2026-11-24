@@ -1,0 +1,14 @@
+nflreadpy @ git+https://github.com/nflverse/nflreadpy
+polars
+pyarrow
+pandas
+numpy
+xgboost
+scikit-learn
+google-genai>=2.3.0   # Interactions API
+sleeper-api-wrapper
+requests
+python-dotenv
+ddgs          # optional: free DuckDuckGo fallback for web search
+shap          # optional: SHAP plots in your notebook
+pyperclip     # optional: auto-copy league-chat replies
